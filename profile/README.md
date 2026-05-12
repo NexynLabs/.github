@@ -30,7 +30,7 @@ Nothing public as of now! But we're working overtime on it.
 
 ---
 
-## 🔗 Connect & Learn
+## Connect & Learn
 
 * **YouTube:** [Smellon](https://youtube.com/@Smellon)
 * **Website:** [nexyn.net](https://nexyn.net)
