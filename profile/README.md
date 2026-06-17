@@ -1,38 +1,34 @@
-# Welcome to NexynLabs!
+# NexynLabs
 
-**Pioneering Next-Generation Software Protection, Anonymity, and Cryptography.**
+Two low-level developers building software protection, crypto, and tooling most people don't want to touch.
 
-We are a collective of low-level developers and reverse engineers building advanced solutions for software security, authentication, and privacy. Founded by **Smellon** and **Hiatus**, we've been deep in the trenches of low-level systems programming and reverse engineering since 2019.
-
----
-
-## What We Do :)
-
-At NexynLabs, we push the boundaries of what's possible in software security and secure communications. Our core focus areas include:
-
-* **Software Protection & Licensing:** Developing robust, stateless licensing and authentication systems. 
-* **Next-Gen Encryption & Anonymity:** Researching and building advanced anonymous networking concepts (think Tor, but engineered for higher security and quantum resistance).
-* **Reverse Engineering Tooling:** Creating utilities and frameworks to analyze, deconstruct, and understand complex software systems.
-* **Open Education:** We believe in sharing knowledge. We regularly produce YouTube tutorials breaking down complex coding concepts, reverse engineering techniques, and security architectures.
+We're **Smellon** and **Hiatus**. We've been deep in reverse engineering and systems programming since 2019 — building things that probably shouldn't be built, breaking things that probably shouldn't break, and occasionally writing about it.
 
 ---
 
-## Core Infrastructure & Projects
+## What we actually do
 
-Nothing public as of now! But we're working overtime on it.
-
-## Meet the Team
-
-* **Smellon** - Co-Founder & Systems Engineer
-* **Hiatus** - Co-Founder & Systems Engineer
-
-*Operating at the lowest levels of computation since 2019.*
+* **Licensing & protection.** Stateless auth systems, anti-tamper work, the unglamorous internals that keep software from getting cracked in an afternoon.
+* **Encryption & anonymity.** We've been chewing on what a Tor-style network looks like if you design it from scratch today — quantum resistance included, not bolted on later.
+* **Reverse engineering tooling.** Utilities for pulling apart software we want to understand. Sometimes ours, sometimes not.
+* **Teaching.** YouTube videos where we break down RE techniques, low-level concepts, and security architecture without the hand-waving.
 
 ---
 
-## Connect & Learn
+## What's public
 
-* **YouTube:** [Smellon](https://youtube.com/@Smellon)
+Nothing yet. We're working overtime on it — this profile is mostly a placeholder until we have something worth showing.
+
+## The team
+
+* **Smellon** — Co-founder, systems engineer. [YouTube](https://youtube.com/@Smellon)
+* **Hiatus** — Co-founder, systems engineer
+
+Around since 2019. Still here.
+
+---
+
+## Links
+
+* **YouTube:** [@Smellon](https://youtube.com/@Smellon)
 * **Website:** [nexyn.net](https://nexyn.net)
-
-> *"Security through understanding, privacy through engineering."*
