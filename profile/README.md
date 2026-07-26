@@ -13,9 +13,9 @@ We're **Smellon** and **Hiatus**, two developers working on software protection,
 
 ---
 
-## What's public
+## What Nexyn is
 
-Nothing yet. We're building and this profile is a placeholder for now.
+[Nexyn](https://nexyn.net) provides authentication, licensing, obfuscation, and server-side protection for Windows and Linux software. Public tooling and SDKs are coming.
 
 ## The team
 
@@ -28,5 +28,5 @@ Around since 2019.
 
 ## Links
 
+* **Website:** [nexyn.net: Software protection, licensing, and authentication](https://nexyn.net)
 * **YouTube:** [@Smellon](https://youtube.com/@Smellon)
-* **Website:** [nexyn.net](https://nexyn.net)
